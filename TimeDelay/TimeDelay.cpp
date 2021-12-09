@@ -10,7 +10,7 @@ void TimeDelay(int time);
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    TimeDelay(10);
 }
 
 void TimeDelay(int time)
